@@ -1,17 +1,23 @@
-Hi, I'm Ian
-I come from a background in emergency services and I'm transitioning into software development. Still figuring out what I enjoy most, but I've been building things with React, Next.js, and a handful of AI APIs to find out.
-What I'm working on
-My main project is an AI-first web builder — the idea is to let people design and build websites through natural language and AI assistance rather than drag-and-drop. Built on React and Next.js with multiple AI API integrations. Still early, but it's the thing I'm most focused on right now.
-What I'm currently learning
+# Hey, I'm Ian 👋
 
-How to build and ship a real product end-to-end
-Working with AI APIs (Claude, OpenAI, Gemini) beyond basic completions
-React Native and mobile development
-Docker and deployment
+I spent years as an EMT — making fast decisions, staying calm when things got chaotic, and always focusing on what actually matters. Turns out those skills translate pretty well to software development.
 
-What I'm interested in
-I'm drawn to product-focused work — building things people actually use rather than purely infrastructure or tooling. Particularly interested in AI-integrated products, developer tools, and anything at the intersection of design and engineering. Open to collaborating or contributing to projects in those areas.
-Stack I've been using
-React Next.js Node.js Python Claude API OpenAI Gemini React Native Docker
-Background
-Former EMT. Building in public while I learn.
+I'm currently a student at Butte College transitioning into tech, building things with React, Next.js, and AI APIs to figure out what I love most. Still early in the journey, but I'm shipping as I learn.
+
+## What I'm Building
+
+My main project is an **AI-first web builder** — the idea is that anyone should be able to design and build a website through natural language and AI assistance, not drag-and-drop. Think Webflow, but you talk to it instead of clicking through panels.
+
+Built on React and Next.js with integrations across Claude, OpenAI, and Gemini. It's the thing I'm most obsessed with right now.
+
+## What I'm Learning
+
+- How to take a product from idea to shipped — end to end
+- Working with AI APIs beyond basic completions (Claude, OpenAI, Gemini)
+- React Native and mobile development
+- Docker and real deployment (not just localhost)
+
+## What I Care About
+
+I'm drawn to product-focused work — building things people actually use. I'm most interested in the intersection of AI, developer tools, and design. If you're working on something in that space, I'm always open to collaborating.
+
